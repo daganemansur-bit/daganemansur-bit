@@ -1,6 +1,6 @@
 ![Mansur Dagane — Electrical Engineering, Automation & Robotics](./banner.svg)
 
-**First-year electrical engineering student at OsloMet** · Oslo, Norway  
+**Electrical engineering student @ OsloMet** · Oslo, Norway  
 Interested in embedded system and automation.
 
 ## Selected projects
